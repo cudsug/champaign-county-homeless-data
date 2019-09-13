@@ -1,2 +1,11 @@
-# champaign-county-homeless-data
-Datasets related to the homeless population and resources in Champaign County
+# Analyzing Gun Deaths in Champaign County
+
+## Organization Name
+ 
+## Overview
+
+## Problem Statement
+
+## Evaluation criteria
+
+## Data Details
