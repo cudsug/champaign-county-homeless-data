@@ -1,4 +1,4 @@
-# Analyzing Gun Deaths in Champaign County
+# Analyzing Homelessness in Champaign County
 
 ## Organization Name
  
