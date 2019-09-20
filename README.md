@@ -2,7 +2,7 @@
 
 ## Organization Name
 Champaign County Regional Planning Commission
-CU at Home
+& CU at Home
 
 ## Overview
 Each year, the RPC conducts a point-in-time homelessness census in Champaign County.  A full description can be found here: 
