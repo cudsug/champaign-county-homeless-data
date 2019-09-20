@@ -2,18 +2,22 @@
 
 ## Organization Name
 Champaign County Regional Planning Commission
- 
+CU at Home
+
 ## Overview
 Each year, the RPC conducts a point-in-time homelessness census in Champaign County.  A full description can be found here: 
 https://ccrpc.org/news/2018/measuring-homelessness-in-champaign-county/
 
-## Problem Statement
-RPC has offered basic visualizations of the data at the link above.  More advanced visualizations, pulling in the poverty and CU at Home datasets would be useful to illustrate a more complete picture of home insecurity in Champaign County. 
+CU at Home operates a homeless shelter in Champaign during the winter months: https://www.cuathome.us/who-we-are/mission/
 
-## Evaluation criteria
+## Problem Statement
+RPC has offered basic visualizations of the data at the link above.  CU at Home has provided basic descriptive statistics. More advanced visualizations, combining the poverty and CU at Home datasets would be useful to illustrate a more complete picture of home insecurity in Champaign County. 
+
 
 ## Data Details
-More information on the datsets are availble here: https://www.hudexchange.info/resource/5783/2018-ahar-part-1-pit-estimates-of-homelessness-in-the-us/.
+The CU at Home dataset variables should be self-explanatory. 
+
+More information on the RPC datset is availble here: https://www.hudexchange.info/resource/5783/2018-ahar-part-1-pit-estimates-of-homelessness-in-the-us/.
 
 Chronically Homeless Individual refers to an individual with a disability who has been continuously homeless for one year or more or has experienced at least four episodes of homelessness in the last three years where the combined length of time homeless in those occasions is at least 12 months.
 
