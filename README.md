@@ -21,7 +21,7 @@ Chronically Homeless People in Families refers to people in families in which th
 
 Continuums of Care (CoC) are local planning bodies responsible for coordinating the full range of homelessness services in a geographic area, which may cover a city, county, metropolitan area, or an entire state.
 
-Emergency Shelter is a facility with the primary purpose of providing temporary shelter for homeless people.
+Emergency Shelter (ES) is a facility with the primary purpose of providing temporary shelter for homeless people.
 
 Homeless describes a person who lacks a fixed, regular, and adequate nighttime residence.
 
@@ -45,9 +45,9 @@ Rapid Rehousing is a housing model designed to provide temporary housing assista
 
 Safe Havens provide temporary shelter and services to hard-to-serve individuals.
 
-Sheltered Homelessness refers to people who are staying in emergency shelters, transitional housing programs, or safe havens.
+Sheltered Homelessness (SH) refers to people who are staying in emergency shelters, transitional housing programs, or safe havens.
 
-Transitional Housing Programs provide people experiencing homelessness a place to stay combined with supportive services for up to 24 months.
+Transitional Housing (TH) Programs provide people experiencing homelessness a place to stay combined with supportive services for up to 24 months.
 
 Unaccompanied Homeless Youth (under 18) are people in households with only children who are not part of a family with children or accompanied by their parent or guardian during their episode of homelessness, and who are under the age of 18.
 
